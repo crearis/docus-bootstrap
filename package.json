@@ -13,10 +13,8 @@
     "@nuxt-themes/docus": "^1.9.0",
     "@nuxt/eslint-config": "^0.1.1",
     "eslint": "^8.35.0",
-    "nuxt": "3.3.3"
-  },
-  "dependencies": {
+    "nuxt": "3.3.3",
     "@coreui/coreui": "^4.2.6",
-    "@coreui/vue": "^4.8.1"
+    "@coreui/vue": "^4.8.1"    
   }
 }
