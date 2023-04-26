@@ -14,5 +14,9 @@
     "@nuxt/eslint-config": "^0.1.1",
     "eslint": "^8.35.0",
     "nuxt": "3.3.3"
+  },
+  "dependencies": {
+    "@coreui/coreui": "^4.2.6",
+    "@coreui/vue": "^4.8.1"
   }
 }
